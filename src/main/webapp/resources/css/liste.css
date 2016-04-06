@@ -1,0 +1,72 @@
+.buttonHeader {
+	margin-bottom 				: 20px;
+}
+
+.parPageButton {
+	cursor						: pointer;
+}
+
+#dropdownDPPButton {
+	width 						: 70px;
+}
+
+#buttonAdd .glyphicon{
+	position					: initial;
+}
+
+#dropdownDisplayPerPage {
+	display 					: inline-block;
+	float 						: right;
+	color 						: #339999;
+}
+
+.buttonFooter {
+	text-align 					: center;
+}
+
+.pageButton {
+	cursor						: pointer;
+}
+
+.pagination .disabled a {
+	color						: #dee0dd !important;
+}
+
+.pagination .active a {
+	background-color			: #dee0dd;
+	border-color 				: #dee0dd;
+}
+
+.pagination .glyphicon {
+	font-size					: 16px;
+	padding 					: 2px;
+}
+
+a,
+.btn {
+	color 						: #339999 !important;
+}
+
+.actionCol {
+	text-align					: right;
+}
+
+.table-white {
+	background-color			: white;
+}
+
+.aucuneLigne {
+	text-align					: center;
+    height						: 70px;
+    line-height					: 70px !important;
+}
+
+#textAreaMail {
+    display						: inline-block;
+    width						: 70%;
+}
+
+.btn-modal {
+	background-color 			: #339999;
+	color 						: white !important;
+}
